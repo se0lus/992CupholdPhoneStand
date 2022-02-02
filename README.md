@@ -4,12 +4,12 @@ A phone charger and cooler stand for porsche 911 992
 ![image](https://github.com/se0lus/992CupholdPhoneStand/blob/main/IMG/01.png)
 
 ## What is it
-The porsche 911 (992) generation is a greate car to drive. It has wireless carplay but you can not find a nice place to put your iPhone. So this is a DIY solution.
+The porsche 911 (992) is a greate car to drive. It has wireless carplay but you can not find a nice place to put your iPhone. So this is a DIY solution.
 
-* Designed for iPhone 13 Pro or iPhone X. Other similar sized iPhone mey supported, but not tested.
+* Design for iPhone 13 Pro or iPhone X. Other similar sized iPhone may supported, but not tested.
 * Wireless charge.
 * Thermoelectric cooling:
-    * The wireless charger generate a lot of heat, will make iPhone slow.
+    * The wireless charger generate a lot of heat, will make iPhone slow, so cooling is a must.
 
 
 ## How to use
