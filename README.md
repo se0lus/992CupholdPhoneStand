@@ -18,7 +18,7 @@ The porsche 911 (992) is a greate car to drive. It has wireless carplay but you 
 1. Buy a USB-C car charger adapter, at least 20W.
 1. 3D print the stl file, you can adjust the model if you want.
 1. The model is not 100% fit the cup holder because the mesure error and print error, you need to add some 3m vhb tape to fill the space.
-1. You can cut he out shield of the charger and cut the RGB led power line to get rid of the ugly RGB lights. 
+1. You can cut the shield of the charger's fan and cut the RGB led power line to get rid of the ugly RGB lights. 
 1. Enjoy it ~~~
 
 ![image](https://github.com/se0lus/992CupholdPhoneStand/blob/main/IMG/02.jpg)
